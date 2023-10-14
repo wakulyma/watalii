@@ -1,0 +1,194 @@
+.myWalletAvailableBalanceChild {
+    position: absolute;
+    top: 0px;
+    left: 273px;
+    background-color: #272726;
+    width: 1647px;
+    height: 100vh;
+}
+.myWalletAvailableBalanceItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #e98703;
+    width: 375px;
+    height: 100vh;
+}
+.watalii11 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 273px;
+    height: 269px;
+}
+.myWallet {
+    position: absolute;
+    top: 422px;
+    left: 20px;
+    font-size: 48px;
+    letter-spacing: -0.05em;
+    font-weight: 600;
+    display: inline-block;
+    width: 344px;
+    height: 205px;
+    cursor: pointer;
+}
+.myWallet1 {
+    position: absolute;
+    top: 535px;
+    left: 20px;
+    color: #614f38;
+    cursor: pointer;
+}
+.loadWallet {
+    position: absolute;
+    top: 423px;
+    left: 591px;
+    font-weight: 500;
+    color: #afadad;
+    cursor: pointer;
+}
+.availableBalance {
+    position: absolute;
+    top: 474px;
+    left: 591px;
+    font-weight: 500;
+}
+.setBudget {
+    position: absolute;
+    top: 525px;
+    left: 591px;
+    font-weight: 500;
+    color: #95928f;
+    cursor: pointer;
+}
+.transactionHistory {
+    position: absolute;
+    top: 617px;
+    left: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.sokoni {
+    position: absolute;
+    top: 576px;
+    left: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.myWalletAvailableBalanceInner {
+    position: absolute;
+    top: 402px;
+    left: 1074px;
+    border-radius: 7px;
+    background-color: #e98703;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 327px;
+    height: 189px;
+}
+.creditBalance {
+    position: absolute;
+    top: 469px;
+    left: 1113px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.usd4300 {
+    position: absolute;
+    top: 485px;
+    left: 1132px;
+    font-weight: 500;
+}
+.kes640270 {
+    position: absolute;
+    top: 525px;
+    left: 1171px;
+    font-size: 24px;
+    color: #272726;
+}
+.op1Icon {
+    position: absolute;
+    top: 73px;
+    left: 30px;
+    border-radius: 59px;
+    width: 57px;
+    height: 57px;
+    object-fit: cover;
+}
+.mdilocationIcon1 {
+    position: absolute;
+    top: 501px;
+    left: 1304px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.home {
+    position: absolute;
+    top: 73px;
+    left: 832px;
+    font-size: 13px;
+    line-height: 100%;
+    font-weight: 500;
+    color: #e98703;
+    cursor: pointer;
+}
+.services {
+    position: absolute;
+    top: 73px;
+    left: 1121px;
+    font-size: 13px;
+    line-height: 100%;
+    font-weight: 500;
+    color: #e98703;
+    cursor: pointer;
+}
+.myBureau {
+    position: absolute;
+    top: 73px;
+    left: 965px;
+    font-size: 13px;
+    line-height: 100%;
+    font-weight: 500;
+    color: #e98703;
+    cursor: pointer;
+}
+.contactUs {
+    position: absolute;
+    top: 73px;
+    left: 1241px;
+    font-size: 13px;
+    line-height: 100%;
+    font-weight: 500;
+    color: #e98703;
+}
+.watalii3Icon {
+    position: absolute;
+    top: 218px;
+    left: 1973px;
+    border-radius: 285px;
+    width: 84px;
+    height: 82.77px;
+    object-fit: cover;
+}
+.watalii4Icon {
+    position: absolute;
+    top: 41px;
+    left: 1784px;
+    border-radius: 285px;
+    width: 84px;
+    height: 82.77px;
+    object-fit: cover;
+}
+.myWalletAvailableBalance1 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: left;
+    font-size: 25px;
+    color: #fff;
+    font-family: Montserrat;
+}
+
