@@ -2,5 +2,8 @@
     "private": true,
     "workspaces": [
         "services/*"
-    ]
+    ],
+    "scripts": {
+        "client": "yarn workspace frontend start"
+    }
 }
