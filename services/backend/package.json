@@ -1,7 +1,18 @@
 {
     "name": "backend",
     "version": "1.0.0",
+    "scripts": {
+        "start": "ts-node-dev ./index.ts"
+    },
     "dependencies": {
-        "cross-env": "7.0.3"
+        "@mirrorworld/web3.js": "^2.8.0",
+        "@solana/web3.js": "^1.87.1",
+        "cross-env": "7.0.3",
+        "dotenv": "^16.3.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.8.6",
+        "ts-node-dev": "^2.0.0",
+        "typescript": "^5.2.2"
     }
 }
