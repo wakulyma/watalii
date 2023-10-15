@@ -87,3 +87,26 @@ fn initiate_fiat_payout(external_service_account: &AccountInfo) -> ProgramResult
      */
     Ok(())
 }
+
+#[account]
+struct Payment {
+    from_address: Pubkey,
+    payment_type: PayType,
+    payment_subtype: String,
+    recipient_number: String,
+    status: Status,
+}
+
+#[derive(AnchorSerialize, AnchorDeserialize, Clone, PartialEq, Eq)]
+enum PayType {
+    Mpesa,
+    Stripe,
+    Visa,
+}
+
+#[derive(AnchorSerialize, AnchorDeserialize, Clone, PartialEq, Eq)]
+enum Status {
+    Pending,
+    Completed,
+    Failed,
+}
