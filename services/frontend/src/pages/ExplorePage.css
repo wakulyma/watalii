@@ -1,0 +1,181 @@
+.explore-page-child,
+.explore-page-item {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.explore-page-item {
+  left: 0;
+  background-color: var(--color-darkorange);
+  width: 375px;
+}
+.watalii-121,
+.watalii-2-icon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 273px;
+  height: 269px;
+}
+.watalii-2-icon11 {
+  top: 26px;
+  width: 220px;
+  height: 216.78px;
+  object-fit: cover;
+}
+.home25 {
+  position: absolute;
+  top: 73px;
+  left: 839px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.services30 {
+  left: 1128px;
+}
+.contact-us22,
+.my-bureau27,
+.services30 {
+  position: absolute;
+  top: 73px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.my-bureau27 {
+  left: 972px;
+  cursor: pointer;
+}
+.contact-us22 {
+  left: 1248px;
+}
+.discover-nature-beauty3 {
+  margin: 0;
+}
+.discover-nature-beauty-container3 {
+  top: 397px;
+  left: 15px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  color: var(--color-white);
+  width: 344px;
+  height: 205px;
+}
+.discover-nature-beauty-container3,
+.explore,
+.welcome-to-watalii3 {
+  position: absolute;
+  display: inline-block;
+}
+.welcome-to-watalii3 {
+  top: 562px;
+  left: 851px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  width: 470px;
+  height: 205px;
+}
+.explore {
+  top: 11px;
+  left: 76px;
+  width: 186px;
+  height: 38px;
+}
+.explore-wrapper {
+  position: absolute;
+  top: 655px;
+  left: 947px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-darkorange);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 265px;
+  height: 59px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.we-offer-you3 {
+  position: absolute;
+  top: 437px;
+  left: 753px;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  color: var(--color-darkgray);
+  text-align: center;
+  display: inline-block;
+  width: 653px;
+  height: 213px;
+}
+.dove1-1-icon4,
+.space-x-14 {
+  position: absolute;
+  top: 640px;
+  left: 3px;
+  width: 274px;
+  height: 322px;
+  object-fit: cover;
+}
+.dove1-1-icon4 {
+  left: 272px;
+  width: 250px;
+}
+.material-symbolsmore-up-icon6 {
+  position: absolute;
+  top: 640px;
+  left: 533px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.download-5-1 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  border-radius: 3px;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.frame-inner {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkorange);
+  width: 111px;
+  height: 31px;
+}
+.my-account2 {
+  position: absolute;
+  top: 20px;
+  left: 16px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 344px;
+  height: 205px;
+}
+.download-5-1-parent {
+  position: absolute;
+  top: 41px;
+  left: 1751px;
+  width: 360px;
+  height: 225px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-500);
+}
+.explore-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkorange);
+  font-family: var(--font-montserrat);
+}

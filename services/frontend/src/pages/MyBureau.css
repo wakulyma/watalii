@@ -1,0 +1,152 @@
+.my-bureau-child {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.my-bureau-item,
+.watalii-111 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.my-bureau-item {
+  background-color: var(--color-darkorange);
+  width: 375px;
+  height: 100vh;
+}
+.watalii-111 {
+  width: 273px;
+  height: 269px;
+}
+.home14 {
+  left: 817px;
+  font-weight: 500;
+  color: var(--color-darkorange);
+  cursor: pointer;
+}
+.contact-us11,
+.home14,
+.my-bureau12,
+.my-bureau13,
+.services17 {
+  position: absolute;
+  top: 71px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+}
+.services17 {
+  left: 1106px;
+  font-weight: 500;
+  color: var(--color-darkorange);
+  cursor: pointer;
+}
+.contact-us11,
+.my-bureau12,
+.my-bureau13 {
+  left: 950px;
+}
+.contact-us11,
+.my-bureau13 {
+  top: 406px;
+  left: 655px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkorange);
+}
+.contact-us11 {
+  top: 71px;
+  left: 1226px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+}
+.my-bureau14 {
+  position: absolute;
+  top: 422px;
+  left: 20px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 344px;
+  height: 205px;
+}
+.my-wallet12,
+.sokoni15,
+.transaction-history10 {
+  position: absolute;
+  top: 535px;
+  left: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.sokoni15,
+.transaction-history10 {
+  top: 617px;
+}
+.sokoni15 {
+  top: 576px;
+}
+.op-1-icon10,
+.watalii-2-icon5 {
+  position: absolute;
+  top: 41px;
+  left: 1784px;
+  border-radius: var(--br-266xl);
+  width: 84px;
+  height: 82.77px;
+  object-fit: cover;
+}
+.op-1-icon10 {
+  top: 73px;
+  left: 30px;
+  border-radius: var(--br-40xl);
+  width: 57px;
+  height: 57px;
+}
+.available-balance1,
+.load-wallet4 {
+  position: absolute;
+  top: 505px;
+  left: 661px;
+  cursor: pointer;
+}
+.available-balance1 {
+  top: 556px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.my-bureau-inner {
+  position: absolute;
+  top: 406px;
+  left: 1273px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-darkorange);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 265px;
+  height: 189px;
+}
+.link-visa-card1 {
+  position: absolute;
+  top: 488px;
+  left: 1309px;
+}
+.my-bureau-child1 {
+  position: absolute;
+  top: 520.95px;
+  left: 1291.99px;
+  width: 225.01px;
+  height: 3.05px;
+}
+.my-bureau11 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,210 @@
+.services-pay-child,
+.services-pay-item {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.services-pay-item {
+  left: 0;
+  background-color: var(--color-darkorange);
+  width: 375px;
+}
+.services-pay-inner {
+  position: absolute;
+  top: 387px;
+  left: 859px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 451px;
+  height: 189px;
+}
+.watalii-116 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 273px;
+  height: 269px;
+}
+.home19,
+.services22 {
+  position: absolute;
+  top: 73px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+  font-weight: 500;
+}
+.home19 {
+  left: 817px;
+  color: var(--color-darkorange);
+  cursor: pointer;
+}
+.services22 {
+  left: 1106px;
+}
+.contact-us16,
+.my-bureau19,
+.services23 {
+  position: absolute;
+  line-height: 100%;
+  color: var(--color-darkorange);
+}
+.my-bureau19 {
+  top: 73px;
+  left: 950px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  cursor: pointer;
+}
+.contact-us16,
+.services23 {
+  top: 318px;
+  left: 493px;
+  font-size: var(--font-size-31xl);
+}
+.contact-us16 {
+  top: 73px;
+  left: 1226px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+}
+.my-wallet19,
+.services24 {
+  position: absolute;
+  left: 20px;
+}
+.services24 {
+  top: 422px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 344px;
+  height: 205px;
+}
+.my-wallet19 {
+  top: 535px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.load-wallet6,
+.pay3 {
+  position: absolute;
+  left: 493px;
+  cursor: pointer;
+}
+.load-wallet6 {
+  top: 462px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.pay3 {
+  top: 426px;
+}
+.sokoni22,
+.sokoni23,
+.transaction-history15 {
+  position: absolute;
+  font-weight: 500;
+  cursor: pointer;
+}
+.sokoni22 {
+  top: 503px;
+  left: 493px;
+  color: var(--color-darkgray);
+}
+.sokoni23,
+.transaction-history15 {
+  top: 617px;
+  left: 20px;
+}
+.sokoni23 {
+  top: 576px;
+}
+.mama-ntilie1 {
+  position: absolute;
+  top: 477px;
+  left: 922px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray-400);
+}
+.div8 {
+  position: absolute;
+  top: 430px;
+  left: 883px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+}
+.services-pay-child1,
+.services-pay-child2 {
+  position: absolute;
+  top: 509px;
+  left: 922px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-seagreen);
+  width: 185px;
+  height: 36px;
+}
+.services-pay-child2 {
+  top: 508px;
+  left: 1135px;
+  background-color: var(--color-darkorange);
+  width: 154px;
+}
+.mpesa-till-no1,
+.send1 {
+  position: absolute;
+  top: 515px;
+  left: 952px;
+  font-size: var(--font-size-base);
+}
+.send1 {
+  top: 512px;
+  left: 1179px;
+  font-size: var(--font-size-5xl);
+}
+.op-1-icon15 {
+  position: absolute;
+  top: 73px;
+  left: 30px;
+  border-radius: var(--br-40xl);
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.icon-parkdown5,
+.mdilocation-icon5 {
+  position: absolute;
+  top: 458px;
+  left: 1265px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icon-parkdown5 {
+  top: 514px;
+  left: 1074px;
+}
+.watalii-3-icon9 {
+  position: absolute;
+  top: 47px;
+  left: 1784px;
+  border-radius: var(--br-266xl);
+  width: 84px;
+  height: 82.77px;
+  object-fit: cover;
+}
+.services-pay {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

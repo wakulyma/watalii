@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Coda:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-coda: Coda;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-xs: 12px;
+  --font-size-29xl: 48px;
+  --font-size-smi: 13px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-mid: 17px;
+  --font-size-mini: 15px;
+  --font-size-11xl: 30px;
+  --font-size-2xs: 11px;
+  --font-size-31xl: 50px;
+  --font-size-base: 16px;
+  --font-size-lgi: 19px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkgray: #afadad;
+  --color-gray-100: #95928f;
+  --color-gray-200: #898585;
+  --color-gray-300: #887964;
+  --color-gray-400: #272726;
+  --color-gray-500: #1e1e1e;
+  --color-gray-600: #1e1c1c;
+  --color-dimgray-100: #55524d;
+  --color-dimgray-200: #614f38;
+  --color-darkorange: #e98703;
+  --color-firebrick: #ba2827;
+  --color-gainsboro-100: #e6e6e6;
+  --color-darkslategray-100: #484545;
+  --color-darkslategray-200: #353432;
+  --color-seagreen: #3e853c;
+
+  /* Border radiuses */
+  --br-266xl: 285px;
+  --br-6xs: 7px;
+  --br-8xs: 5px;
+  --br-40xl: 59px;
+  --br-11xs: 2px;
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-7xs: 6px;
+}

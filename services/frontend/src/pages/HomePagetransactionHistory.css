@@ -1,0 +1,186 @@
+.home-pagetransaction-history-child,
+.home-pagetransaction-history-item {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.home-pagetransaction-history-item {
+  left: 0;
+  background-color: var(--color-darkorange);
+  width: 375px;
+}
+.watalii-14,
+.watalii-2-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 273px;
+  height: 269px;
+}
+.watalii-2-icon1 {
+  top: 26px;
+  width: 220px;
+  height: 216.78px;
+  object-fit: cover;
+}
+.discover-nature-beauty {
+  margin: 0;
+}
+.discover-nature-beauty-container {
+  top: 397px;
+  left: 15px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  width: 344px;
+  height: 205px;
+}
+.discover-nature-beauty-container,
+.we-offer-you,
+.welcome-to-watalii {
+  position: absolute;
+  display: inline-block;
+}
+.welcome-to-watalii {
+  top: 483px;
+  left: 906px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  color: var(--color-darkorange);
+  width: 470px;
+  height: 205px;
+}
+.we-offer-you {
+  top: 358px;
+  left: 808px;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  color: var(--color-darkgray);
+  text-align: center;
+  width: 653px;
+  height: 213px;
+}
+.dove1-1-icon,
+.space-x-1 {
+  position: absolute;
+  top: 640px;
+  left: 3px;
+  width: 274px;
+  height: 322px;
+  object-fit: cover;
+}
+.dove1-1-icon {
+  left: 272px;
+  width: 250px;
+}
+.material-symbolsmore-up-icon1 {
+  position: absolute;
+  top: 640px;
+  left: 533px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.my-wallet6 {
+  position: absolute;
+  top: 645px;
+  left: 761px;
+  font-size: var(--font-size-6xl);
+  cursor: pointer;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-darkorange);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 322px;
+  height: 59px;
+}
+.transaction-history4 {
+  position: absolute;
+  top: 14px;
+  left: 33px;
+}
+.rectangle-parent,
+.sokoni6 {
+  position: absolute;
+  font-size: var(--font-size-6xl);
+}
+.rectangle-parent {
+  top: 631px;
+  left: 1303px;
+  width: 322px;
+  height: 59px;
+}
+.sokoni6 {
+  top: 645px;
+  left: 1093px;
+  cursor: pointer;
+}
+.home4,
+.services4 {
+  position: absolute;
+  top: 73px;
+  color: var(--color-darkorange);
+}
+.home4 {
+  left: -1337px;
+  line-height: 100%;
+  font-weight: 500;
+  opacity: 0;
+}
+.services4 {
+  left: 1165px;
+}
+.home5,
+.my-bureau4,
+.services4 {
+  line-height: 100%;
+  font-weight: 500;
+  cursor: pointer;
+}
+.my-bureau4 {
+  position: absolute;
+  top: 73px;
+  left: 1008px;
+  color: var(--color-darkorange);
+}
+.home5 {
+  left: 871px;
+}
+.contact-us4,
+.home5,
+.op-1-icon4 {
+  position: absolute;
+  top: 73px;
+}
+.contact-us4 {
+  left: 1285px;
+  line-height: 100%;
+  font-weight: 500;
+  color: var(--color-darkorange);
+}
+.op-1-icon4 {
+  left: 1802px;
+  border-radius: var(--br-40xl);
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.home-pagetransaction-history {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
