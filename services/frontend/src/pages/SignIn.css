@@ -4,7 +4,7 @@
   top: 0;
   left: 273px;
   background-color: var(--color-gray-400);
-  width: 1647px;
+  width: 100vw;
   height: 100vh;
 }
 .sign-in-item {
