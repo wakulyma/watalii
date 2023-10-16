@@ -1,0 +1,198 @@
+.transaction-history-balance-child,
+.transaction-history-balance-item {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.transaction-history-balance-item {
+  left: 0;
+  background-color: var(--color-darkorange);
+  width: 375px;
+}
+.watalii-12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 273px;
+  height: 269px;
+}
+.sneha-cecil-xns-qgcvvoi-unspla-icon {
+  position: absolute;
+  top: 0;
+  left: 375px;
+  width: 555px;
+  height: 100vh;
+  object-fit: cover;
+  opacity: 0.29;
+}
+.home2 {
+  position: absolute;
+  top: 73px;
+  left: 817px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+  font-weight: 500;
+  color: var(--color-darkorange);
+  cursor: pointer;
+}
+.services2 {
+  left: 1106px;
+  cursor: pointer;
+}
+.contact-us2,
+.my-bureau2,
+.services2 {
+  position: absolute;
+  top: 73px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+  font-weight: 500;
+  color: var(--color-darkorange);
+}
+.my-bureau2 {
+  left: 950px;
+  cursor: pointer;
+}
+.contact-us2 {
+  left: 1226px;
+}
+.my-history,
+.my-wallet2 {
+  position: absolute;
+  left: 20px;
+  cursor: pointer;
+}
+.my-history {
+  top: 422px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 344px;
+  height: 205px;
+}
+.my-wallet2 {
+  top: 535px;
+  font-weight: 500;
+}
+.my-spendings {
+  top: 423px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.balance,
+.my-spendings,
+.track-mybills {
+  position: absolute;
+  left: 493px;
+  cursor: pointer;
+}
+.track-mybills {
+  top: 474px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.balance {
+  top: 525px;
+}
+.sokoni4,
+.transaction-history2 {
+  position: absolute;
+  left: 20px;
+  cursor: pointer;
+}
+.transaction-history2 {
+  top: 617px;
+  color: var(--color-dimgray-200);
+}
+.sokoni4 {
+  top: 576px;
+  font-weight: 500;
+}
+.op-1-icon2,
+.watalii-2-icon {
+  position: absolute;
+  top: 73px;
+  left: 30px;
+  border-radius: var(--br-40xl);
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.watalii-2-icon {
+  top: 41px;
+  left: 1784px;
+  border-radius: var(--br-266xl);
+  width: 84px;
+  height: 82.77px;
+}
+.transaction-history-balance-inner {
+  position: absolute;
+  top: 426px;
+  left: 1180px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-dimgray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 451px;
+  height: 221px;
+}
+.transaction-history-balance-child1 {
+  position: absolute;
+  top: 474px;
+  left: 1406px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-firebrick);
+  width: 154px;
+  height: 132px;
+}
+.account-balance,
+.usd-5400 {
+  position: absolute;
+  top: 533px;
+  left: 1420px;
+  font-size: var(--font-size-5xl);
+}
+.account-balance {
+  top: 544px;
+  left: 1205px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: #e1e1e1;
+  width: 340px;
+}
+.my-wallet3 {
+  position: absolute;
+  top: 362px;
+  left: 1180px;
+  font-size: 35px;
+}
+.logo-1-icon {
+  position: absolute;
+  top: 469px;
+  left: 1205px;
+  border-radius: var(--br-11xs);
+  width: 135px;
+  height: 68px;
+  object-fit: cover;
+}
+.div {
+  position: absolute;
+  top: 504px;
+  left: 1418px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+}
+.transaction-history-balance {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

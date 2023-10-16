@@ -1,0 +1,264 @@
+.transaction-history-my-spendi-child,
+.transaction-history-my-spendi-item {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.transaction-history-my-spendi-item {
+  left: 0;
+  background-color: var(--color-darkorange);
+  width: 375px;
+}
+.transaction-history-my-spendi-inner {
+  position: absolute;
+  top: 228px;
+  left: 1153px;
+  border-radius: var(--br-6xs);
+  background-color: #32302e;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 492px;
+  height: 642px;
+}
+.maxim-hopman-fixlqxahcfk-unspl-icon {
+  position: absolute;
+  top: 228px;
+  left: 1154px;
+  width: 490px;
+  height: 642px;
+  object-fit: cover;
+  opacity: 0.18;
+}
+.watalii-112 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 273px;
+  height: 269px;
+}
+.sneha-cecil-xns-qgcvvoi-unspla-icon1 {
+  position: absolute;
+  top: 0;
+  left: 375px;
+  width: 565px;
+  height: 100vh;
+  object-fit: cover;
+  opacity: 0.29;
+}
+.contact-us12,
+.home15,
+.my-bureau15,
+.services18 {
+  position: absolute;
+  top: 71px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+  font-weight: 500;
+  color: var(--color-darkorange);
+}
+.home15 {
+  left: 817px;
+  cursor: pointer;
+}
+.contact-us12,
+.my-bureau15,
+.services18 {
+  left: 1098px;
+}
+.contact-us12,
+.my-bureau15 {
+  left: 953px;
+}
+.contact-us12 {
+  left: 1226px;
+}
+.my-history1,
+.my-wallet13 {
+  position: absolute;
+  left: 20px;
+}
+.my-history1 {
+  top: 422px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 344px;
+  height: 205px;
+}
+.my-wallet13 {
+  top: 535px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.balance1,
+.my-spendings1,
+.track-mybills1 {
+  position: absolute;
+  top: 423px;
+  left: 493px;
+  color: var(--color-gainsboro-100);
+  cursor: pointer;
+}
+.balance1,
+.track-mybills1 {
+  top: 474px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.balance1 {
+  top: 525px;
+}
+.transaction-history11 {
+  position: absolute;
+  top: 617px;
+  left: 20px;
+  color: var(--color-dimgray-200);
+}
+.sokoni16 {
+  position: absolute;
+  top: 576px;
+  left: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.diani-backpackers,
+.wasini-dolphin-island {
+  position: absolute;
+  top: 358px;
+  left: 1181px;
+  font-size: var(--font-size-lgi);
+}
+.diani-backpackers {
+  top: 589px;
+  color: var(--color-darkorange);
+}
+.mara-estuary,
+.sharks-gills,
+.sleeve-lakes,
+.swahili-foods {
+  position: absolute;
+  top: 435px;
+  left: 1181px;
+  font-size: var(--font-size-lgi);
+}
+.mara-estuary,
+.sleeve-lakes,
+.swahili-foods {
+  top: 666px;
+}
+.sleeve-lakes,
+.swahili-foods {
+  top: 512px;
+}
+.sleeve-lakes {
+  top: 743px;
+}
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7 {
+  position: absolute;
+  top: 338px;
+  left: 1181px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+}
+.div3,
+.div4,
+.div5,
+.div6,
+.div7 {
+  top: 569px;
+}
+.div4,
+.div5,
+.div6,
+.div7 {
+  top: 415px;
+}
+.div5,
+.div6,
+.div7 {
+  top: 646px;
+}
+.div6,
+.div7 {
+  top: 492px;
+}
+.div7 {
+  top: 723px;
+}
+.op-1-icon11,
+.watalii-2-icon6 {
+  position: absolute;
+  top: 73px;
+  left: 30px;
+  border-radius: var(--br-40xl);
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.watalii-2-icon6 {
+  top: 41px;
+  left: 1784px;
+  border-radius: var(--br-266xl);
+  width: 84px;
+  height: 82.77px;
+}
+.rimore-line-icon,
+.rimore-line-icon1,
+.rimore-line-icon2 {
+  position: absolute;
+  top: 358px;
+  left: 1572px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rimore-line-icon1,
+.rimore-line-icon2 {
+  top: 589px;
+}
+.rimore-line-icon2 {
+  top: 435px;
+}
+.rimore-line-icon3,
+.rimore-line-icon4,
+.rimore-line-icon5,
+.rimore-line-icon6 {
+  position: absolute;
+  top: 666px;
+  left: 1572px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rimore-line-icon4,
+.rimore-line-icon5,
+.rimore-line-icon6 {
+  top: 743px;
+}
+.rimore-line-icon5,
+.rimore-line-icon6 {
+  top: 512px;
+}
+.rimore-line-icon6 {
+  top: 743px;
+  left: 13971400px;
+}
+.transaction-history-my-spendi {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

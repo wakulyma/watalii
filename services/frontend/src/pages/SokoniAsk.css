@@ -1,0 +1,246 @@
+.sokoni-ask-child {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.sokoni-ask-item,
+.watalii-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.sokoni-ask-item {
+  background-color: var(--color-darkorange);
+  width: 375px;
+  height: 100vh;
+}
+.watalii-1 {
+  width: 273px;
+  height: 269px;
+}
+.home,
+.services {
+  position: absolute;
+  top: 71px;
+  left: 817px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+  font-weight: 500;
+  color: var(--color-darkorange);
+  cursor: pointer;
+}
+.services {
+  left: 1106px;
+}
+.sneha-cecil-yucizaievj8-unspla-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 100vh;
+  object-fit: cover;
+  opacity: 0.39;
+}
+.contact-us,
+.my-bureau {
+  position: absolute;
+  top: 71px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+  font-weight: 500;
+  color: var(--color-darkorange);
+}
+.my-bureau {
+  left: 950px;
+  cursor: pointer;
+}
+.contact-us {
+  left: 1226px;
+}
+.sokoni {
+  position: absolute;
+  top: 377px;
+  left: 20px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 344px;
+  height: 205px;
+  cursor: pointer;
+}
+.my-wallet {
+  top: 535px;
+  font-weight: 500;
+}
+.my-wallet,
+.sokoni1,
+.transaction-history {
+  position: absolute;
+  left: 20px;
+  cursor: pointer;
+}
+.transaction-history {
+  top: 617px;
+  font-weight: 500;
+}
+.sokoni1 {
+  top: 576px;
+  color: var(--color-dimgray-200);
+}
+.sokoni-ask-inner {
+  position: absolute;
+  top: 279px;
+  left: 950px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-gray-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 531px;
+  height: 524px;
+  opacity: 0.48;
+}
+.icround-refresh-icon,
+.material-symbolsmore-up-icon {
+  position: absolute;
+  top: 631px;
+  left: 1434px;
+  width: 19px;
+  height: 19px;
+  overflow: hidden;
+}
+.icround-refresh-icon {
+  top: 288px;
+  left: 1438px;
+  width: 24px;
+  height: 24px;
+}
+.op-1-icon,
+.op-2-icon {
+  position: absolute;
+  top: 84px;
+  left: 30px;
+  border-radius: var(--br-40xl);
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.op-2-icon {
+  top: 452px;
+  left: 1415px;
+  width: 40px;
+  height: 40px;
+}
+.line-icon {
+  position: absolute;
+  top: 364px;
+  left: 856px;
+  width: 2.95px;
+  height: 276.01px;
+}
+.myai {
+  position: absolute;
+  top: 334px;
+  left: 994px;
+}
+.fluentchat-20-regular {
+  position: absolute;
+  top: 385px;
+  left: 1302px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.rectangle-div,
+.sokoni-ask-child1 {
+  position: absolute;
+  top: 411px;
+  left: 994px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-400);
+  width: 264px;
+  height: 80px;
+  opacity: 0.66;
+}
+.sokoni-ask-child1 {
+  top: 508px;
+  left: 1171px;
+}
+.hello-how-may,
+.im-lost-in {
+  position: absolute;
+  top: 446px;
+  left: 1013px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-coda);
+}
+.im-lost-in {
+  top: 543px;
+  left: 1190px;
+}
+.ggbot-icon {
+  position: absolute;
+  top: 377px;
+  left: 989px;
+  border-radius: var(--br-6xs);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.watalii-3-icon {
+  position: absolute;
+  top: 41px;
+  left: 1784px;
+  border-radius: var(--br-266xl);
+  width: 84px;
+  height: 82.77px;
+  object-fit: cover;
+}
+.travel-packages {
+  position: absolute;
+  top: 422px;
+  left: 493px;
+}
+.recommended-areas,
+.transport,
+.travel-packages {
+  font-weight: 500;
+  color: var(--color-darkgray);
+  cursor: pointer;
+}
+.recommended-areas {
+  position: absolute;
+  top: 473px;
+  left: 493px;
+}
+.transport {
+  top: 524px;
+}
+.accommodation,
+.ask,
+.transport {
+  position: absolute;
+  left: 493px;
+}
+.accommodation {
+  top: 575px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.ask {
+  top: 626px;
+  cursor: pointer;
+}
+.sokoni-ask {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

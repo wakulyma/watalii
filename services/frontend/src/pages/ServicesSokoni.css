@@ -1,0 +1,182 @@
+.servicessokoni-child,
+.servicessokoni-item {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.servicessokoni-item {
+  left: 0;
+  background-color: var(--color-darkorange);
+  width: 375px;
+}
+.servicessokoni-inner {
+  position: absolute;
+  top: 387px;
+  left: 859px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-darkslategray-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 451px;
+  height: 189px;
+}
+.watalii-18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 273px;
+  height: 269px;
+}
+.home11,
+.services8 {
+  position: absolute;
+  top: 73px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+  font-weight: 500;
+  cursor: pointer;
+}
+.home11 {
+  left: 817px;
+  color: var(--color-darkorange);
+}
+.services8 {
+  left: 1106px;
+}
+.contact-us8,
+.my-bureau8,
+.services9 {
+  position: absolute;
+  line-height: 100%;
+  color: var(--color-darkorange);
+}
+.my-bureau8 {
+  top: 73px;
+  left: 950px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  cursor: pointer;
+}
+.contact-us8,
+.services9 {
+  top: 318px;
+  left: 493px;
+  font-size: var(--font-size-31xl);
+}
+.contact-us8 {
+  top: 73px;
+  left: 1226px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+}
+.services10 {
+  position: absolute;
+  top: 422px;
+  left: 20px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 344px;
+  height: 205px;
+}
+.load-wallet1,
+.my-wallet9,
+.pay {
+  position: absolute;
+  top: 535px;
+  left: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.load-wallet1,
+.pay {
+  top: 462px;
+  left: 493px;
+  color: var(--color-darkgray);
+}
+.pay {
+  top: 426px;
+}
+.sokoni10,
+.sokoni9,
+.transaction-history7 {
+  position: absolute;
+  top: 503px;
+  left: 493px;
+  cursor: pointer;
+}
+.sokoni10,
+.transaction-history7 {
+  top: 617px;
+  left: 20px;
+  font-weight: 500;
+}
+.sokoni10 {
+  top: 576px;
+}
+.op-1-icon7 {
+  position: absolute;
+  top: 73px;
+  left: 30px;
+  border-radius: var(--br-40xl);
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.mdilocation-icon1 {
+  position: absolute;
+  top: 458px;
+  left: 1265px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.watalii-3-icon3 {
+  position: absolute;
+  top: 41px;
+  left: 1784px;
+  border-radius: var(--br-266xl);
+  width: 84px;
+  height: 82.77px;
+  object-fit: cover;
+}
+.river-kongo {
+  position: absolute;
+  top: 450px;
+  left: 920px;
+  font-size: 60px;
+  letter-spacing: -0.05em;
+  display: inline-block;
+  width: 437px;
+  height: 205px;
+}
+.view-more {
+  position: absolute;
+  top: 591px;
+  left: 1211px;
+  font-size: 21px;
+  font-weight: 500;
+}
+.img-9540-1-icon {
+  position: absolute;
+  top: 400px;
+  left: 881px;
+  width: 193px;
+  height: 165.61px;
+  object-fit: cover;
+  opacity: 0.77;
+}
+.servicessokoni {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

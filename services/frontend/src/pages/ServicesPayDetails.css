@@ -1,0 +1,264 @@
+.services-pay-details-child,
+.services-pay-details-item {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  background-color: var(--color-gray-400);
+  width: 1647px;
+  height: 100vh;
+}
+.services-pay-details-item {
+  left: 0;
+  background-color: var(--color-darkorange);
+  width: 375px;
+}
+.services-pay-details-inner {
+  position: absolute;
+  top: 304px;
+  left: 909px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 451px;
+  height: 446px;
+}
+.watalii-110 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 273px;
+  height: 269px;
+}
+.home13,
+.services14 {
+  position: absolute;
+  top: 73px;
+  font-size: var(--font-size-smi);
+  line-height: 100%;
+  font-weight: 500;
+  cursor: pointer;
+}
+.home13 {
+  left: 817px;
+  color: var(--color-darkorange);
+}
+.services14 {
+  left: 1107px;
+}
+.contact-us10,
+.my-bureau10,
+.services15 {
+  position: absolute;
+  line-height: 100%;
+  color: var(--color-darkorange);
+}
+.my-bureau10 {
+  top: 73px;
+  left: 950px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  cursor: pointer;
+}
+.contact-us10,
+.services15 {
+  top: 318px;
+  left: 493px;
+  font-size: var(--font-size-31xl);
+}
+.contact-us10 {
+  top: 73px;
+  left: 1226px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+}
+.my-wallet11,
+.services16 {
+  position: absolute;
+  left: 20px;
+}
+.services16 {
+  top: 422px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 344px;
+  height: 205px;
+}
+.my-wallet11 {
+  top: 535px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.load-wallet3,
+.pay2 {
+  position: absolute;
+  left: 493px;
+}
+.load-wallet3 {
+  top: 462px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+  cursor: pointer;
+}
+.pay2 {
+  top: 426px;
+}
+.sokoni13,
+.transaction-history9 {
+  position: absolute;
+  font-weight: 500;
+  cursor: pointer;
+}
+.sokoni13 {
+  top: 503px;
+  left: 493px;
+  color: var(--color-darkgray);
+}
+.transaction-history9 {
+  top: 617px;
+  left: 20px;
+}
+.travel-package {
+  top: 546px;
+  left: 493px;
+  cursor: pointer;
+}
+.div1,
+.sokoni14,
+.travel-package {
+  position: absolute;
+  font-weight: 500;
+}
+.sokoni14 {
+  top: 576px;
+  left: 20px;
+  cursor: pointer;
+}
+.div1 {
+  top: 339px;
+  left: 938px;
+  font-size: var(--font-size-xs);
+}
+.services-pay-details-child1 {
+  position: absolute;
+  top: 426px;
+  left: 972px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-seagreen);
+  width: 185px;
+  height: 36px;
+}
+.mpesa-till-no {
+  position: absolute;
+  top: 432px;
+  left: 1002px;
+  font-size: var(--font-size-base);
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-darkorange);
+  width: 154px;
+  height: 36px;
+}
+.send {
+  position: absolute;
+  top: 4px;
+  left: 44px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 692px;
+  left: 1071px;
+  width: 154px;
+  height: 36px;
+  font-size: var(--font-size-5xl);
+}
+.op-1-icon9 {
+  position: absolute;
+  top: 73px;
+  left: 30px;
+  border-radius: var(--br-40xl);
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.icon-parkdown3,
+.mdilocation-icon3 {
+  position: absolute;
+  top: 375px;
+  left: 1315px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icon-parkdown3 {
+  top: 431px;
+  left: 1124px;
+}
+.watalii-3-icon5 {
+  position: absolute;
+  top: 47px;
+  left: 1784px;
+  border-radius: var(--br-266xl);
+  width: 84px;
+  height: 82.77px;
+  object-fit: cover;
+}
+.services-pay-details-child2,
+.services-pay-details-child3,
+.services-pay-details-child4 {
+  position: absolute;
+  top: 491px;
+  left: 958px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray-100);
+  width: 368px;
+  height: 43px;
+}
+.services-pay-details-child3,
+.services-pay-details-child4 {
+  top: 561px;
+}
+.services-pay-details-child4 {
+  top: 634px;
+}
+.amount,
+.name,
+.till-no {
+  position: absolute;
+  top: 504px;
+  left: 984px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.amount,
+.name {
+  top: 574px;
+}
+.name {
+  top: 645px;
+  left: 985px;
+}
+.mama-ntilie {
+  position: absolute;
+  top: 644px;
+  left: 1055px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray-100);
+}
+.services-pay-details {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
